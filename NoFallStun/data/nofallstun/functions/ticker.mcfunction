@@ -1,0 +1,1 @@
+effect give @a[nbt={OnGround:1b,FallDistance:0.0f}] resistance 1 255 true
